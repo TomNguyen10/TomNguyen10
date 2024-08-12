@@ -2,15 +2,25 @@
 # Hi there 👋
 :grinning:My name is Tom, and welcome to my GitHub Profile:
 ![](https://komarev.com/ghpvc/?username=TomNguyen10&color=ff69b4&style=plastic&base=1605)
+
 ## Introduction :bow:
+
 :school: I’m a Computer Science student @DePauw University
+
 :grin: I am interested in Full-stack development and A.I Engineering
+
 🔭  I’m currently learning LLMs and how to integrate them into Full-Stack application with LangChain 
-💬 I love talking about application infrastructure & alogrithms
+
+💬 I love talking about application infrastructure & algorithms
+
 📫 How to reach me: 
+
 :link: Connect with me on [LinkedIn](https://www.linkedin.com/in/tomnguyen107/)
+
 :email: Send me an email to: dungnguyen_2025@depauw.edu
+
 😄 Pronouns: They/them
+
 ⚡ Fun fact: I love :cookie:baking and :soccer: soccer
 
 ## Skills :computer:
