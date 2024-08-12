@@ -24,8 +24,11 @@
 
 ## My Experience :fire:
 SWE Fellow @[Headstarter A.I](https://headstarter.co/) 
+
 SWE Intern @[OMZ Cloud](https://omzcloud.vn/) 
+
 SDE Intern @[FPT Software](https://fptsoftware.com/fpt-americas)
+
 Research & Teaching Assistant @[DePauw University](https://www.depauw.edu/)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TomNguyen10&theme=dark&background=000000)
