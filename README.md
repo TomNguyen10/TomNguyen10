@@ -20,7 +20,7 @@
 
 :email: Send me an email to: dungnguyen_2025@depauw.edu
 
-😄 Pronouns: They/them
+😄 
 
 ⚡ Fun fact: I love :cookie:baking and :soccer: soccer
 
