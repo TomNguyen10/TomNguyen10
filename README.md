@@ -1,46 +1,86 @@
+# Hi there, I'm Tom! 👋
 
-# Hi there 👋
-:grinning:My name is Tom, and welcome to my GitHub Profile:
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TomNguyen10&color=blue&style=for-the-badge" alt="Profile views" />
+</div>
 
-![](https://komarev.com/ghpvc/?username=TomNguyen10&color=ff69b4&style=plastic&base=1605)
+<br />
 
-## Introduction :bow:
+### 👨‍💻 About Me
 
-:school: I’m a Computer Science student @DePauw University
+- 🎓 **Senior @ DePauw University** studying Computer Science & Actuarial Science.
+- 🔭 Working as a **Software Engineer** @ [Persona Identities](https://withpersona.com) and creating cool stuff @ [ElevatEd](https://elevated.app).
+- 🌱 Exploring the intersection of **FinTech + AI** and building scalable full-stack applications.
+- 🍳 When I'm not coding, I'm probably **cooking** some fine dining dishes or playing soccer.
 
-:grin: I am interested in Full-stack development and A.I Engineering
+<br />
 
-🔭  I’m currently learning LLMs and how to integrate them into Full-Stack application with LangChain 
+### 🛠️ Tech Stack
 
-💬 I love talking about application infrastructure & algorithms
+<div align="center">
 
-📫 How to reach me: 
+**Languages**  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ruby,ts,js,java,cpp,r,bash,go,rust&theme=dark" alt="Languages" />
+</p>
 
-:link: Connect with me on [LinkedIn](https://www.linkedin.com/in/tomnguyen107/)
+**Frontend & Mobile**  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css,flutter&theme=dark" alt="Frontend" />
+</p>
 
-:email: Send me an email to: dungnguyen_2025@depauw.edu
+**Backend & Database**  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,rails,express,fastapi,postgres,mongodb,mysql,firebase,supabase,graphql&theme=dark" alt="Backend" />
+</p>
 
-😄 
+**Cloud, DevOps & Tools**  
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,git,githubactions,sentry,datadog,vim&theme=dark" alt="Tools" />
+</p>
 
-⚡ Fun fact: I love :cookie:baking and :soccer: soccer
+**AI & ML**  
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,anaconda,sklearn&theme=dark" alt="AI" />
+</p>
 
-## Skills :computer:
-:globe_with_meridians: Programming Languages [![My Skills](https://skillicons.dev/icons?i=python,java,typescript,javascript,cpp,r,bash,kotlin,php,erlang&perline=10)](https://skillicons.dev)
+</div>
 
-:wrench: Frameworks & Libraries![My Skills](https://skillicons.dev/icons?i=next,react,graphql,tensorflow,pytorch,opencv,nodejs,fastapi,express,bootstrap,css,html,d3,spring,sklearn,tailwind,vue&perline=10)
+<br />
 
-:hammer: Softwares ![My Skills](https://skillicons.dev/icons?i=aws,gcp,git,github,docker,postgres,firebase,supabase,mongo,mysql,vim,figma,githubactions,postman,prisma,raspberrypi,vercel,vite&perline=10)
+### 🔥 Work Experience
 
-:factory: IDEs ![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,anaconda,androidstudio,arduino,eclipse,idea,linux,replit,sublime&perline=10)
+| Role | Company | Period |
+|:-----|:--------|:-------|
+| **Software Engineer** | [Persona Identities](https://withpersona.com) | Sep 2025 – Present |
+| **Founding Software Engineer** | ElevatEd, LLC | May 2025 – Aug 2025 |
+| **SWE Fellow** | [Headstarter AI](https://headstarter.co) | Jul 2024 – Sep 2024 |
+| **Research Assistant** | [DePauw University](https://www.depauw.edu) | Jan 2024 – Aug 2024 |
+| **SWE Intern** | [OMZ Cloud](https://omzcloud.vn) | May 2023 – Aug 2023 |
 
-## My Experience :fire:
-SWE Fellow @[Headstarter A.I](https://headstarter.co/) 
+<br />
 
-SWE Intern @[OMZ Cloud](https://omzcloud.vn/) 
+### 📈 GitHub Stats
 
-SDE Intern @[FPT Software](https://fptsoftware.com/fpt-americas)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TomNguyen10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomNguyen10&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Langs" height="180" />
+</div>
 
-Research & Teaching Assistant @[DePauw University](https://www.depauw.edu/)
+<div align="center">
+  <br />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=TomNguyen10&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+</div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TomNguyen10&theme=dark&background=000000)
-](https://git.io/streak-stats)
+<br />
+
+### 📫 Connect with me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/tomnguyen107/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tomnguyendp@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
