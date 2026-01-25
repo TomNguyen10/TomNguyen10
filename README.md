@@ -8,10 +8,10 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Senior @ DePauw University** studying Computer Science & Actuarial Science.
 - 🔭 Working as a **Software Engineer** @ [Persona Identities](https://withpersona.com) and creating cool stuff @ [ElevatEd](https://elevated.app).
-- 🌱 Exploring the intersection of **FinTech + AI** and building scalable full-stack applications.
+- 🎓 **@ DePauw University** graduate with double major Computer Science & Actuarial Science.
 - 🍳 When I'm not coding, I'm probably **cooking** some fine dining dishes or playing soccer.
+
 
 <br />
 
